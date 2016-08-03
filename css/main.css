@@ -1,0 +1,115 @@
+/* Inserta tu codigo aqui */
+.fondo{
+	background-image: url("../img/semilla.jpg");
+	background-repeat: no-repeat;
+	height: 500px;	
+}
+ul{
+	text-align: center;
+	padding: 20px;
+}
+li{
+	text-decoration: none;
+	display: inline-block;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.b{
+	border-left: 1px solid 	
+}
+.logo{
+	width: 100px;
+}
+.fond{
+	background-color: #D8D8D8;
+	padding: 90px;
+}
+.mv{
+	margin: 50px;
+}
+.metodo{
+	background-image: url("../img/metodo.jpg");
+	background-repeat: no-repeat;
+	width: 900px;
+	height: 500px;
+}
+.fondoverde{
+	background-image: url("../img/fondo.jpg");
+	background-repeat: no-repeat;
+	text-align: center;
+	width: 690px;
+	height: 500px;
+}
+.meto{
+	padding:200px;
+}
+.servi{
+	padding: 20px;
+}
+.p{
+	padding-left:200px;
+	padding-right: 200px;
+}
+.servicios{
+	padding:40px;
+}
+.ft{
+	width: 500px;
+	height: auto;
+}
+.ft2{
+	padding-left: 50px;
+	margin-top: 10px;
+}
+.ft3{
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+.chica{
+	padding: 40px;
+}
+.verderaro{
+	background-color: #688A08;
+}
+.ico{
+	width: 5%;
+	border-radius: 3%;
+}
+.foto{
+	border-radius: 100%;
+}
+.fondogris{
+	background-image: url("../img/fondo2.jpg");
+}
+.foto2{
+	width: 100%;
+}
+.foto3{
+	width: 79%;
+}
+.slider{
+	position: relative;
+	top: 100px;
+}
+.fondogris2{
+	background-color: #585858;
+}
+.cajas{
+	border: solid white 1px;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	height: 250px;
+}
+.ico2{
+	width: 10%;
+}
+.padre{
+	margin: 40px;
+}
+.textl{
+	text-align: left;
+}
+.textr{
+	text-align: right;
+}
